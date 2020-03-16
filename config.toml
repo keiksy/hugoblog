@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://keiksy.me"
+baseURL = "https://keiksy.github.io"
 title = "Keiksy's NotePad"
 languageCode = "zh-CN"
 hasCJKLanguage = true
