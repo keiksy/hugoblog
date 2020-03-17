@@ -1,6 +1,6 @@
 import os, sys
 
-if os.getcwd() != '/Users/cai/Blog/keiksyblog':
+if os.getcwd() != '/Users/cai/Desktop/Blog/keiksyblog':
     sys.exit("Place this script to Hugo root folder!")
 
 os.system('git add .')
