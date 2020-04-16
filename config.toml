@@ -41,8 +41,7 @@ preserveTaxonomyNames = true
 
 [params]
     since = 2020
-    author = "Keiksy"                           # Author's name
-    avatar = "/images/me/avatar.jpeg"           # Author's avatar
+    author = "Keiksy"                           # Author's name      # Author's avatar
     home_mode = "" # post or other
 
     google_verification = ""
@@ -54,5 +53,5 @@ preserveTaxonomyNames = true
     baiduAnalytics = ""
 
 [params.social]
-    GitHub = "https://github.com/keiksy"
+    GitHub = "keiksy"
 
